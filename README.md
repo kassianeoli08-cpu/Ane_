@@ -12,8 +12,8 @@
 </div>
 
 ##
-![Kawe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawe-keven&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawe-keven&layout=compact&theme=dracula)
+![Kawe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ane__icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ane_=compact&theme=dracula)
 ##
 
 <div>
