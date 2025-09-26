@@ -20,11 +20,3 @@
   <img  align="center" alt="Rafa-Csharp" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 </div>
-
- ##
-
-<div>
- <a href="https://www.instagram.com/Ane__sttsv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:kassianeoli08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
