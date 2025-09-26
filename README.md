@@ -11,10 +11,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
-##
-![Kawe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ane__icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ane_=compact&theme=dracula)
-##
 
 <div>
   <img  align="center" alt="Rafa-Csharp" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
